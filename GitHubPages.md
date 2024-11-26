@@ -23,7 +23,6 @@ Follow these steps to publish your assignment repository as a GitHub Pages websi
 - **Branch**: Select `main` (or the default branch of your repository) from the dropdown menu.
 - **Folder**: Choose one of the following based on where your site files are located:
   - `/ (root)` if your site files (like `index.html`) are in the root directory of your repository.
-  - `/docs` if your site files are in a `docs` folder.
 - Click **Save**.
 
 ## Step 5: Wait for Your Site to Publish
